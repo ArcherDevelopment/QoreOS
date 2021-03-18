@@ -23,5 +23,6 @@
                                    
        [=] Scripting Help (Notifys and connects a developer who can help)
    [>] Others
+   
        [=] Copy QoreOS Discord Invite     
 
