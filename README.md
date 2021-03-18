@@ -1,6 +1,6 @@
 # QoreOS
                       
- QoreOS is the best Roblox pentestsing utility script, and has a wide range of tools. 
+ QoreOS is the best Roblox pentestsing utility script, and has a wide range of tools that is soon to come. 
  # Todo/Features
    [>] Scripting
    
